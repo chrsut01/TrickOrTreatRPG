@@ -1,0 +1,14 @@
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\bin\Debug\net7.0\TrickOrTreatRPG.exe
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\bin\Debug\net7.0\TrickOrTreatRPG.deps.json
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\bin\Debug\net7.0\TrickOrTreatRPG.runtimeconfig.json
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\bin\Debug\net7.0\TrickOrTreatRPG.dll
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\bin\Debug\net7.0\TrickOrTreatRPG.pdb
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\obj\Debug\net7.0\TrickOrTreatRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\obj\Debug\net7.0\TrickOrTreatRPG.AssemblyInfoInputs.cache
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\obj\Debug\net7.0\TrickOrTreatRPG.AssemblyInfo.cs
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\obj\Debug\net7.0\TrickOrTreatRPG.csproj.CoreCompileInputs.cache
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\obj\Debug\net7.0\TrickOrTreatRPG.dll
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\obj\Debug\net7.0\refint\TrickOrTreatRPG.dll
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\obj\Debug\net7.0\TrickOrTreatRPG.pdb
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\obj\Debug\net7.0\TrickOrTreatRPG.genruntimeconfig.cache
+C:\Users\chris\RiderProjects\TrickOrTreatRPG\TrickOrTreatRPG\obj\Debug\net7.0\ref\TrickOrTreatRPG.dll
