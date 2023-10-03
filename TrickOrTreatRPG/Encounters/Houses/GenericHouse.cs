@@ -1,4 +1,7 @@
-﻿namespace TrickOrTreatRPG;
+﻿using TrickOrTreatRPG.Encounters.Houses;
+using TrickOrTreatRPG.Management;
+
+namespace TrickOrTreatRPG;
 
 public class GenericHouse : House
 {

@@ -1,4 +1,7 @@
-﻿namespace TrickOrTreatRPG;
+﻿using TrickOrTreatRPG.Encounters.Characters;
+using TrickOrTreatRPG.Management;
+
+namespace TrickOrTreatRPG;
 
 public class Bully : Character
 {
@@ -26,7 +29,6 @@ public class Bully : Character
         GameState.Instance.AddTime(7);
 
         switch(action1)
-        //if (action == "1") // You run away
         {
             case "1" :
             string reaction1 = CalculateReaction(70, 25);
@@ -44,7 +46,6 @@ public class Bully : Character
             }
         break;
 
-        //else if (action == "2") // You stand your ground
             case "2":
             string reaction2 = CalculateReaction(10, 80);
             if (reaction2 == "positive")
@@ -60,7 +61,6 @@ public class Bully : Character
                 NegativeOutcome(action1);
             }
         break;
-        //else if (action == "3") // You attack!
             case "3":
                 string reaction3 = CalculateReaction(10, 80);
                 if (reaction3 == "positive")

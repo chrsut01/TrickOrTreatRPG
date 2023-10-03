@@ -1,4 +1,8 @@
-﻿namespace TrickOrTreatRPG;
+﻿using TrickOrTreatRPG.Encounters;
+using TrickOrTreatRPG.Encounters.Characters;
+using TrickOrTreatRPG.Management;
+
+namespace TrickOrTreatRPG;
 
 public class Game
 {

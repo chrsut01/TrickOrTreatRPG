@@ -1,4 +1,4 @@
-﻿namespace TrickOrTreatRPG;
+﻿namespace TrickOrTreatRPG.Management;
 
 public class GameState
 {
