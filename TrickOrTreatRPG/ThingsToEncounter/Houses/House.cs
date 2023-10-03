@@ -5,7 +5,7 @@ namespace TrickOrTreatRPG.Encounters.Houses;
 public class House : ThingToEncounter
 {
     public string Name { get; set; }
-    protected static Random random = new Random();
+    //protected static Random random = new Random();
     
     
     private string action1;

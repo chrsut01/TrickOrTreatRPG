@@ -1,4 +1,6 @@
-﻿namespace TrickOrTreatRPG.Encounters.Characters;
+﻿using TrickOrTreatRPG.Management;
+
+namespace TrickOrTreatRPG.ThingsToEncounter.Characters;
 
 public class Munchkins : Character
 {

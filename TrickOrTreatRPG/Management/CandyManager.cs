@@ -1,4 +1,5 @@
 ﻿using TrickOrTreatRPG.Management;
+using Random = System.Random;
 
 namespace TrickOrTreatRPG;
 
@@ -37,7 +38,6 @@ public class CandyManager
         CreateAndAddCandy("Necco Wafers", 2);
         CreateAndAddCandy("Candy Corn", 1);
         CreateAndAddCandy("Rock", 0);
-
     }
 
     private void CreateAndAddCandy(string name, int points)

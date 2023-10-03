@@ -16,7 +16,6 @@ public class GameState
         }
     }
     
-    //public int minutesToAdd;
     public TimeSpan Time = new TimeSpan(06,00,00);
     public string PresentTime;
     

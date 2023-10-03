@@ -1,7 +1,6 @@
-﻿using TrickOrTreatRPG.Encounters.Characters;
-using TrickOrTreatRPG.Management;
+﻿using TrickOrTreatRPG.Management;
 
-namespace TrickOrTreatRPG;
+namespace TrickOrTreatRPG.ThingsToEncounter.Characters;
 
 public class Bully : Character
 {
@@ -114,8 +113,8 @@ public class Bully : Character
                 Console.WriteLine("""
                                   
                                   Unintimidated by the Donald Trump wanna-be, you 
-                                  raise brandish your little pumpkin like a weapon. 
-                                  He lunges at you, but you swing the pumpkin as hard 
+                                  brandish your little pumpkin like a weapon. He 
+                                  lunges at you, but you swing the pumpkin as hard 
                                   as you can and wack him square on the side of his 
                                   rubber-coated, fat head. He falls to the ground 
                                   crying. You grab his pumpkin full of candy and run 

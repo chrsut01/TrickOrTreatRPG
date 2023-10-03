@@ -1,4 +1,4 @@
-﻿using TrickOrTreatRPG.Encounters.Characters;
+﻿using TrickOrTreatRPG.ThingsToEncounter.Characters;
 
 namespace TrickOrTreatRPG.Encounters;
 

@@ -1,6 +1,6 @@
 ﻿using TrickOrTreatRPG.Management;
 
-namespace TrickOrTreatRPG.Encounters.Characters;
+namespace TrickOrTreatRPG.ThingsToEncounter.Characters;
 
 public class RockPaperScissorsFriend : Character
 {

@@ -1,6 +1,6 @@
 ﻿using TrickOrTreatRPG.Encounters;
-using TrickOrTreatRPG.Encounters.Characters;
 using TrickOrTreatRPG.Management;
+using TrickOrTreatRPG.ThingsToEncounter.Characters;
 
 namespace TrickOrTreatRPG;
 
@@ -8,10 +8,10 @@ public class Game
 {
         private ThingToEncounterFactory factory = new ThingToEncounterFactory();
 
-        private string action1;
+        //private string action1;
         private bool _isGameOver { get; set;}
         
-        private Random random = new Random();
+         //Random random = new Random();
 
         private static Game instance;
 
