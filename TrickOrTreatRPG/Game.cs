@@ -110,7 +110,7 @@ public class Game
             Console.WriteLine("""
                                         
                                                TRICK-OR-TREAT!!!
-                              It is 7PM on Halloween night. You are out trick-or-treating 
+                              It is 6PM on Halloween night. You are out trick-or-treating 
                               in your favorite costume, ready to fill your plastic pumpkin 
                               with as much candy as you can before 9PM, at which time the 
                               people usually stop giving out candy, and your mother said 
