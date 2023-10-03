@@ -1,4 +1,6 @@
-﻿namespace TrickOrTreatRPG;
+﻿using TrickOrTreatRPG.Management;
+
+namespace TrickOrTreatRPG.Encounters.Houses;
 
 public class House : ThingToEncounter
 {
@@ -7,8 +9,6 @@ public class House : ThingToEncounter
     
     
     private string action1;
-   // protected int randomReaction;
-   
 
     public virtual string VisitHouse()
     {

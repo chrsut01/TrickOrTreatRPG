@@ -1,4 +1,4 @@
-﻿namespace TrickOrTreatRPG;
+﻿namespace TrickOrTreatRPG.Encounters;
 
 public abstract class ThingToEncounter
 {

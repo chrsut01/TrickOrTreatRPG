@@ -1,4 +1,6 @@
-﻿namespace TrickOrTreatRPG;
+﻿using TrickOrTreatRPG.Management;
+
+namespace TrickOrTreatRPG;
 
 public class CandyManager
 {

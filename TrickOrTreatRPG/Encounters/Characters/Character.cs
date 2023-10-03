@@ -1,4 +1,4 @@
-﻿namespace TrickOrTreatRPG;
+﻿namespace TrickOrTreatRPG.Encounters.Characters;
 
 public class Character : ThingToEncounter
 {

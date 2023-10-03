@@ -1,4 +1,7 @@
-﻿namespace TrickOrTreatRPG;
+﻿using TrickOrTreatRPG.Encounters.Characters;
+using TrickOrTreatRPG.Management;
+
+namespace TrickOrTreatRPG;
 
 public class Bully : Character
 {
